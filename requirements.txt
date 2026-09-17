@@ -1,1 +1,9 @@
-
+numpy
+pandas
+scipy
+scikit-learn
+torch
+h5py
+matplotlib
+tqdm
+openpyxl
